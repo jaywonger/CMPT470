@@ -1,0 +1,11 @@
+2019-11-07 12:47:29 INFO  MethodCallCollector:87 - Colelcting Java and Jar Files
+2019-11-07 12:47:29 INFO  MethodCallCollector:91 - Colelcting Java Files
+2019-11-07 12:47:29 INFO  MethodCallCollector:100 - Total Number of Java Files: 22
+2019-11-07 12:47:29 INFO  MethodCallCollector:102 - Colelcting Jar Files
+2019-11-07 12:47:29 INFO  MethodCallCollector:113 - Total Number of JAR Files: 1
+2019-11-07 12:47:29 INFO  MethodCallCollector:122 - Configure Eclipse JDT
+2019-11-07 12:47:29 INFO  MethodCallCollector:146 - Creating Compilation Unit for each java file
+2019-11-07 12:47:31 INFO  MethodCallCollector:157 - Total Number of Compilation Units: 22
+2019-11-07 12:47:42 INFO  MethodCallCollector:75 - 22 compilation units out of 22 are parsed. Percentage of completion: 100%
+2019-11-07 12:47:42 INFO  MethodCallCollector:373 - Total Number of API method invocation found: 378
+2019-11-07 12:47:42 INFO  MethodCallCollector:379 - Dividing the dataset into 10 folds and writting in ./data/dataset/
